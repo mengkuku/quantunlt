@@ -10,5 +10,3 @@ hostname = qidian.qpic.cn,ulogs.umeng.com,ulogs.umengcloud.com,alogs.umeng.com,a
 (?<=(carrier|account|sys)_region=)CN url 307 KR
 (?<=version_code=)\d{1,}.\d{1}\.\d{1} url 307 14.0.0
 
-[MITM]
-hostname = ,api*.tiktokv.com,*.musical.ly,enable = true
